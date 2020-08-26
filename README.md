@@ -16,23 +16,23 @@ Software: Google Colab Notebook, Amazon AWS, PostgreSQL
 
 ## Analysis
 
-**Total number of reviews**
+**1. Total number of reviews**
 
 ![](images/01a.PNG) ![](images/01b.PNG)
 
-**Total number of helpful reviews**
+**2. Total number of helpful reviews**
 
 ![](images/02a.PNG) ![](images/02b.PNG)
 
-**Total average vote**
+**3. Total average vote**
 
 ![](images/03a.PNG) ![](images/03b.PNG) 
 
-**Total number of 5-star reviews**
+**4. Total number of 5-star reviews**
 
 ![](images/04a.PNG) ![](images/04b.PNG) 
 
-**Count by star rating**
+**5. Count by star rating**
 
 ![](images/05a.PNG) ![](images/05b.PNG) 
 
